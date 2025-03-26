@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+    <title>Minha Pagina</title>
+
+    </head>
+
+    <body>
+
+        
+        <p>1. <b>Beethoven: <u>5th Symphony</u></b> – Música de suspense e terror clássica. Aparecia
+            no Mais Você quando a Ana Maria Braga provava uma comida. Apareceu também no
+            filme: “<sub>Se eu fosse você</sub>” Entre outras participações.
+        </p>
+
+        <p>2. <b>Tchaikovsky: <u>1812 Overture</u></b> – <i>Música de fanfarra</i>, sinceramente, acho que
+            não é tão conhecida assim, mas em todo caso está aqui marcando presença.
+        </p>
+       
+        
+
+    </body>
+
+
+</html>
